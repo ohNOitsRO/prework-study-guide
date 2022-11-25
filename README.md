@@ -1,6 +1,8 @@
 # Prework Study Guide Webpage
 
-## This Prework Study Guide serves as a learning tool and introduction into the basics of coding. I built this project to have one easily accessible central location to house all my study notes. This keeps all my progress organized and simple to read. I learned during this process how versatile and truly customizable coding can be when applied correctly.
+## Description
+
+This Prework Study Guide serves as a learning tool and introduction into the basics of coding. I built this project to have one easily accessible central location to house all my study notes. This keeps all my progress organized and simple to read. I learned during this process how versatile and truly customizable coding can be when applied correctly.
 
 
 ## Installation
